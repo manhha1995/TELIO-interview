@@ -1,5 +1,5 @@
-import java.util.*;
-import java.lang.*;
+import java.util.BitSet;
+import java.util.Scanner;
 
 public class BitCount {
     public static void main(String[] args) {

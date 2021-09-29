@@ -1,4 +1,4 @@
-package main.java.interfaces;
+package interfaces;
 
 public interface FlyBehavior {
     public void fly();

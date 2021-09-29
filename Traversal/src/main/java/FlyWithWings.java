@@ -1,6 +1,6 @@
-package main;
 
-import main.java.interfaces.FlyBehavior;
+
+import interfaces.FlyBehavior;
 
 public class FlyWithWings implements FlyBehavior{
     @Override

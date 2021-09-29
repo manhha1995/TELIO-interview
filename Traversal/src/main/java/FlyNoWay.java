@@ -1,6 +1,4 @@
-package main.java;
-
-import main.java.interfaces.FlyBehavior;
+import interfaces.FlyBehavior;
 
 public class FlyNoWay implements FlyBehavior{
     public void fly() {

@@ -1,7 +1,5 @@
-package main.java;
-
-import main.java.interfaces.FlyBehavior;
-import main.java.interfaces.QuackBehavior;
+import interfaces.FlyBehavior;
+import interfaces.QuackBehavior;
 
 public abstract class Duck {
     public abstract void display();
